@@ -24,7 +24,7 @@ features like helper’’s quarters, closed kitchens, and private balconies. Id
 
 > The Different types houses inside the this really big apartama
 
-| Id             |    Room     |      Space |
+| Name           |    Room     |      Space |
 | -------------- | :---------: | ---------: |
 | Studio C1 & C2 | 1 Bed Rooms |   55.5 Sqm |
 | C1 & C2        | 1 Bed Rooms |   76.2 Sqm |

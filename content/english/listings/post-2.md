@@ -20,7 +20,7 @@ At CMC Residential Properties, we redefine what home means by blending luxury, c
 
 > The Different types houses inside the this really big apartama
 
-| Id           |    Room     | Space |
+| Name         |    Room     | Space |
 | ------------ | :---------: | ----: |
 | CCE-TY-40    | 2 Bed Rooms |  40m2 |
 | CCE-TY-75    | 2 Bed Rooms |  75m2 |
