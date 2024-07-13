@@ -172,9 +172,6 @@ lazy = true
 link = "plugins/youtube-lite.js"
 lazy = true
 
-[[params.hugo-maps]]
-lazy = true
-
 [taxonomies]
 feature = "features"
 amenity = "amenities"
